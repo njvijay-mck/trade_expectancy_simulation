@@ -205,7 +205,7 @@ with tab1:
                 min_value=5,
                 max_value=95,
                 value=40,
-                step=5,
+                step=1,
                 help="Percentage of trades that are winners"
             ) / 100
             
